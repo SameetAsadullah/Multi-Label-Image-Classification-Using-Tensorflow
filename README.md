@@ -9,6 +9,13 @@
 - Sea
 - Street
 
+### Dataset
+The image dataset that we used can be found 
+[Here](https://www.kaggle.com/datasets/sameetassadullah/multi-label-image-classification-dataset).
+```
+https://www.kaggle.com/datasets/sameetassadullah/multi-label-image-classification-dataset
+```
+
 ### Contributors
 - [Sameet Asadullah](https://github.com/SameetAsadullah)
 - [Aysha Noor](https://github.com/ayshanoorr)
